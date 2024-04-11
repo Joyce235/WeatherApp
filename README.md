@@ -1,4 +1,5 @@
-Introduction
+# Introduction
+
 WeatherApp is a dynamic web application designed to provide users with real-time weather information and forecasts. This project showcases the ability to handle complex data retrieval, user preferences, and a responsive design to cater to various devices and screen sizes.
 Key Features
 User Registration, Authentication, and Profile Management: Allows users to create personal accounts, login, and manage their profiles to customize their weather viewing preferences.
